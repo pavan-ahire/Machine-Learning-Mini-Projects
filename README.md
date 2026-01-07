@@ -55,6 +55,8 @@ carat, cut, color, clarity, and dimensions using machine learning regression mod
 ### 📧 Email Spam vs Ham Detection
 <img width="1200" height="600" alt="image4_v2LFcq0 max-1200x1200" src="https://github.com/user-attachments/assets/036d3fe6-15c7-4d31-8ac3-9d8c89e343a5" />
 
+This project classifies emails as Spam or Ham using NLP techniques
+such as text preprocessing, TF-IDF vectorization, and machine learning models.
 
 - **Algorithm:** Naive Bayes  
 - **Techniques:** NLP, TF-IDF, Bag of Words  
