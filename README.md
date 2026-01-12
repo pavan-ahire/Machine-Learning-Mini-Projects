@@ -65,6 +65,36 @@ such as text preprocessing, TF-IDF vectorization, and machine learning models.
 📂 Folder: `Email spam ham case study/`
 
 ---
+### 📰 Fake News Detection Using NLP
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 12, 2026, 06_48_17 PM" src="https://github.com/user-attachments/assets/95466944-3dff-48db-8741-887bb0ac5183" />
+
+Fake news detection is an important **Natural Language Processing (NLP)** problem that focuses on identifying whether a news article is **real or fake** based on its textual content.  
+This project applies NLP techniques and machine learning algorithms to analyze news text and classify it accurately.
+
+- **Algorithms:** Naive Bayes, Logistic Regression, Support Vector Machine (SVM)  
+- **Objective:** Classify news articles as *Real* or *Fake* using text data  
+- **NLP Techniques:** Text cleaning, Tokenization, Stopword removal, TF-IDF Vectorization  
+- **Concepts:** Binary classification, text feature extraction, model evaluation  
+
+📂 Folder: `Fake News Detection Using NLP/`
+
+
+---
+### 🖼️ Image Preprocessing Techniques
+<img width="1536" height="1024" alt="ChatGPT Image Jan 12, 2026, 06_52_55 PM" src="https://github.com/user-attachments/assets/b9f80b8f-e4ac-41c8-abfa-a9374f394e0d" />
+
+Image preprocessing is a crucial step in computer vision and machine learning pipelines.  
+This module demonstrates commonly used image preprocessing operations to enhance image quality, extract meaningful features, and prepare data for downstream ML or DL models.
+
+- **Techniques Covered:** Cropping, Adding Borders, Drawing Shapes, Color Conversion, Image Flipping  
+- **Enhancements:** Contrast Adjustment, Sharpness Enhancement, Blurring & Smoothing  
+- **Objective:** Improve image representation and robustness for machine learning tasks  
+- **Concepts:** Pixel manipulation, geometric transformations, image enhancement  
+
+📂 Folder: `Image Preprocessing/`
+
+---
 
 ### 🚧 Upcoming Projects
 - 🎬 Movie Recommendation System  
