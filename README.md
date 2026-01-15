@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Mini Projects Repository
+# 🤖 Machine Learning Projects Repository
 <!--
 <img width="1536" height="1024" alt="ChatGPT Image Jan 7, 2026, 06_34_27 PM" src="https://github.com/user-attachments/assets/ff886b84-6b6f-406d-b898-636228f226c9" />
 -->
